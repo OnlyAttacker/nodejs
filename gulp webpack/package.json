@@ -1,0 +1,33 @@
+{
+  "name": "gulpdemo",
+  "version": "1.0.0",
+  "description": "study gulp demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnlyAttacker/nodejs.git"
+  },
+  "keywords": [
+    "gulp",
+    "demo"
+  ],
+  "author": "gaojiahao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnlyAttacker/nodejs/issues"
+  },
+  "homepage": "https://github.com/OnlyAttacker/nodejs#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "jsx-loader": "^0.13.2",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.2"
+  }
+}
